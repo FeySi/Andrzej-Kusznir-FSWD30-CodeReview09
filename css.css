@@ -1,0 +1,70 @@
+*{
+margin-left: auto;
+margin-top: auto;
+margin-right: auto;
+margin-left: auto;
+background-color: 
+}
+
+header {
+
+	background-color: #003680;
+
+}
+span {
+	
+}
+.troll{
+	background-color:  #E5EAEE;
+}
+.img{margin-left: 9%;
+
+
+
+}
+
+.section{
+	background-color: #E5EAEE;
+}
+.t2{
+ float: right;
+  padding-right: 65%;
+    margin-top: 20px;
+     color: white;
+     
+
+}
+
+
+.img1{
+	margin-left: 8%;
+
+}
+.img2{
+	float: right;
+	margin-right: 8%;
+}
+.textline{
+	background-color:#E5EAEE; 
+}
+.textline1{
+	float: left;
+	margin-left: 8%;
+	border: medium solid black;
+	
+}
+.textline2{
+	float: right;
+	margin-right: 8%;
+	border: medium solid black;
+}
+.footer span{
+ font-size: 25px;
+}
+.footer {
+	margin-top: 100px;
+	margin-left: 180px;
+}
+.lol {
+	margin-left: 30px;
+}
